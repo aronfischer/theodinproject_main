@@ -343,7 +343,7 @@ create_or_update_lesson(
 section_position += 1
 section = create_or_update_section(
   title: "ReactJs",
-  title_url: "ReactJs".parameterize,
+  title_url: "React Js".parameterize,
   course_id: course.id,
   position: section_position,
   description: "A deeper dive into the frontend framework ReactJs."
@@ -352,7 +352,7 @@ section = create_or_update_section(
 lesson_position += 1
 create_or_update_lesson(
   title: "Introduction",
-  title_url: "Introduction".parameterize,
+  title_url: "react introduction".parameterize,
   description: "Introduction",
   position: lesson_position,
   section_id: section.id,
