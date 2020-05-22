@@ -357,7 +357,7 @@ create_or_update_lesson(
   position: lesson_position,
   section_id: section.id,
   is_project: false,
-  url: "/javascript/react-js/introduction.md",
+  url: "/javascript/react-js/react-introduction.md",
   repo: 'curriculum'
 )
 
