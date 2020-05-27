@@ -1,6 +1,13 @@
 def success_stories
   [
     {
+      student_name: 'Aron Fischer',
+      avatar_path_name:'aron.jpg'
+      story_content: "I remember when I first tried to learn to code. It's not an accident that I say I tried because if I'm honest, I started a few times before finally sticking to it. I tried many different resources, courses, and curriculums, but none of them seemed to teach in a way that made me stick to it. What differentiates TOP from all those other courses and curriculums out there is its unique way of providing guidance and answers to the most important questions, while also strengthening your ability to push through the curriculum and projects by yourself and as a result grow on your struggles. The reason why TOP was perfect for me was on the one hand because in its' well-structured paths I found answers to the most difficult of all questions: Where should I start? What should I learn first? How well do I have to know certain technologies? Besides providing answers to those questions, having a great and supportive community, another point to stress is the flexibility of the curriculum. I was able to use my creativity to design and code the projects, and often further ideas were provided to help you figure out which feature to add next. Now, I reached what I wouldn't have thought possible when I started. I landed a job :D",
+      job_title: 'React Frontend Developer',
+      social_media_link: 'https://github.com/aronfischer'
+      },
+    {
       student_name: 'Rob Pando',
       avatar_path_name: 'rob_pando.jpg',
       story_content: 'TOP was a perfect match for my learning style. Not walking me through an entire project but actually forcing me to figure it out on my own, by pointing me in all the right directions in order to complete them. That helped me dig deeper into various important topics, which then gave me the necessary knowledge and confidence to start applying for jobs and landing that dream job. The community was part of it too, first getting help and then helping, it was a great way to learn and make it stick.',
@@ -55,7 +62,7 @@ def success_stories
       story_content: 'TOP smoothed out the steep learning curve in web development, allowing me to confidently learn at my own pace and taught me how to approach and solve real-life programming problems.  The projects in TOP were a perfect mix of difficulty, allowing me to gain exposure to different technologies and feel challenged without feeling overwhelmed.  Because of the foundation TOP provided, I was able to easily transition into freelancing and then into a junior level Rails developer position.',
       job_title: 'Mid-Level Rails Developer',
       social_media_link: 'https://www.seanszurko.com/',
-    }
+    },
   ]
 end
 
